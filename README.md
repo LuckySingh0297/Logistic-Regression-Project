@@ -131,7 +131,7 @@ This graph shows how patient age impacts hospital readmission rates.
 
 ### 📷 Visualization
 
-![Age vs Readmission](images/age_vs_readmission.png)
+![Age vs Readmission](Images/AGE%20vs%20READMISSION%20(Countplot).png)
 
 ---
 
@@ -147,7 +147,7 @@ This visualization analyzes the relationship between insulin usage and patient r
 
 ### 📷 Visualization
 
-![Insulin vs Readmission](images/insulin_vs_readmission.png)
+![Insulin vs Readmission](Images/INSULIN%20vs%20READMISSION%20(Countplot).png)
 
 ---
 
@@ -162,7 +162,7 @@ This boxplot shows the relationship between hospital stay duration and readmissi
 
 ### 📷 Visualization
 
-![Time in Hospital](images/time_in_hospital_vs_readmission.png)
+![Time in Hospital](Images/TIME_IN_HOSPITAL%20vs%20READMISSION%20(Boxplot).png)
 
 ---
 
@@ -177,7 +177,7 @@ This visualization analyzes medication count against patient readmission.
 
 ### 📷 Visualization
 
-![Number of Medications](images/medications_vs_readmission.png)
+![Number of Medications](Images/UMBER%20OF%20MEDICATIONS%20vs%20READMISSION%20(Boxplot).png)
 
 ---
 
@@ -193,7 +193,7 @@ The heatmap shows relationships between numerical features.
 
 ### 📷 Visualization
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Heatmap](Images/HEATMAP%20(Correlation%20Analysis).png)
 
 ---
 
@@ -233,7 +233,7 @@ The confusion matrix shows model prediction performance.
 
 ### 📷 Visualization
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Images/Confusion%20Matrix%20Predicted%20vs%20Actual.png)
 
 ---
 
@@ -248,8 +248,7 @@ ROC Curve measures the model’s ability to distinguish between classes.
 
 ### 📷 Visualization
 
-![ROC Curve](images/roc_curve.png)
-
+![ROC Curve](Images/Roc%20Curve.png)
 ---
 
 # 📌 Key Findings
